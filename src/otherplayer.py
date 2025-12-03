@@ -4,7 +4,7 @@ import sys
 import math
 
 # --- CONFIGURATION ---
-SCREEN_WIDTH = 1180
+SCREEN_WIDTH = 720
 SCREEN_HEIGHT = 720
 TILE_SIZE = 32
 FPS = 60

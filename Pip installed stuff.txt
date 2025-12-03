@@ -1,0 +1,3 @@
+pip install noise
+pip install pygame
+pip (the whole thing)
